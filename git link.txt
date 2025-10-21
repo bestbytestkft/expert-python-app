@@ -1,6 +1,0 @@
-https://github.com/devfile-samples/devfile-sample-python-basic.git
-
-
-my git repository
-
-https://github.com/bestbytestkft/expert-python-app
